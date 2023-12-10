@@ -5,30 +5,26 @@
 What is GCE and why is it important?
 
 '''
-
 - Google Compute Engine (GCE) is a web service that provides secure, resizable compute capacity in the cloud.
 
 - It hosts Linux and Windows machines and provides secure computing for activation that can scale within minutes.
 
 - Cost and performance optimization is done with commitments, spot instances and other methods mentioned in Google Cloud Platform (GCP) documentation.
-
 '''
 
 GCE usecases
 
 '''
-
 - Secure, reliable, high-performance and cost effective computing for complex business and application needs.
 
 - Dynamic capacity scaling, GCP's pay-as-you-go pricing benefits and accessing environments in minutes.
 
 - Delivering a broad choice of computing, networking and storage services that optimizes price performance for projects.
-
 '''
 
 GCE Instance Types
 
-You can follow [this page](https://cloud.google.com/compute/docs/machine-resource)! for detailed and up-to-date information.
+You can follow this page for detailed and up-to-date information.
 
 General Purpose
 
