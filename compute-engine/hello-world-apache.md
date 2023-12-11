@@ -14,7 +14,7 @@
 
 7 - Click Create to create the instance
 
-8 - Go to Connect column and click SSH from your instance. In this step, a cmd window opens up and if you authorize the window, the server is expected to open. You can use [this page]([https://cloud.google.com/compute/docs/machine-resource](https://cloud.google.com/compute/docs/machine-resource](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-ssh-errors)https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-ssh-errors))
+8 - Go to Connect column and click SSH from your instance. In this step, a cmd window opens up and if you authorize the window, the server is expected to open. You can use [this page](https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-ssh-errors)
 
 9 - Update the packages with `sudo apt-get update`
 
