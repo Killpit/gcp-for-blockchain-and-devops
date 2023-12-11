@@ -36,7 +36,7 @@ They are used to handle memory-instensive workloads. They are suitable for in-me
 
 ### Accelerator optimized
 
-### They are used to handle high performance computing workloads in Google Cloud. They are suitable for GPU-enabled ML model training, HPC, parallel computing and many more use cases.
+They are used to handle high performance computing workloads in Google Cloud. They are suitable for GPU-enabled ML model training, HPC, parallel computing and many more use cases.
 
 ### How to launch GCE instance?
 
