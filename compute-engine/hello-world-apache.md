@@ -8,9 +8,15 @@
 
 4 - Enter a name for your instance, select your region and zone. Then choose an appropriate zone. 
 
+![Ekran Resmi 2023-12-11 12 17 16](https://github.com/Killpit/gcp-zero-to-hero/assets/57031187/d9ead5af-5c81-4e20-8a97-a00ae9c9cdc1)
+
 5 - Go to the boot disk, select Debian as operating system, keep the version as the default value, select SSD persistent disk from Boot disk type and click select.
 
+![Ekran Resmi 2023-12-11 12 18 05](https://github.com/Killpit/gcp-zero-to-hero/assets/57031187/4c9a8ab9-4011-481d-acc7-a81b5b23a57c)
+
 6 - Allow HTTP traffic from Firewall section.
+
+![Ekran Resmi 2023-12-11 12 19 59](https://github.com/Killpit/gcp-zero-to-hero/assets/57031187/555be9d6-e1ca-4ed1-b803-3ab1d3ca9130)
 
 7 - Click Create to create the instance
 
@@ -30,4 +36,4 @@
 
 **Reference** 
 
-Google Cloud
+Google Cloud Tutorials
