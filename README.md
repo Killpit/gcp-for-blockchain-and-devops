@@ -14,7 +14,7 @@ You will explore IAM, which is used for managing access to GCP resources. You'll
 
 You will explore Google Compute Engine, which provides virtual servers and computing resources. It provides safe, reliable and scalable infrastructure and costs can be managed with rightsizing, autoscaling, preemptive VMs, commitments and automating cost optimization.
 
-**Projects** : Creating a Hello World Website on Apache, Configure Internal Load Balancing
+**Projects** : Creating a Hello World Website on Apache
 
 ### Virtual Private Cloud (VPC)
 
