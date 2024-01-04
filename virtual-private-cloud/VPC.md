@@ -1,4 +1,4 @@
-# VPC
+# VPC
 
 VPC is a secure, private and isolated area in the cloud to run applications and store data.
 
@@ -10,7 +10,7 @@ Gatewyays or routers can be set up to connect VPCs to the internet as other netw
 
 Like all other cloud providers, GCP provides you with a default VPC as soon as you created an account and a project. That leaves us to create VPCs for our projects
 
-## VPC Compnents
+## VPC Compnents
 
 **Subnet**: Synonyms with subnetworks in Google Cloud, Subnets are a subdivision of VPC, they carve out IP addresses with specific functionalities and security considerations.
 
@@ -41,3 +41,9 @@ Like all other cloud providers, GCP provides you with a default VPC as soon as y
 **Private access**: Application front end can be configured and backend services can be shielded and private access can be maintained to Google services with all access to Google Cloud services.
 
 **VPC Service Controls**: Sensitive data can be kept private and fully managed storage and data processing capabilities can be used by configuring private communications between cloud resources whether its cloud and on-premise deployments. 
+
+VPC Architecture: 
+
+![1*6HWT7WGREFABwDf8poEqCQ](https://github.com/Killpit/gcp-zero-to-hero/assets/57031187/63d969a3-9c0e-4b63-835a-104a5f199bb1)
+
+For more information: [](https://cloud.google.com/vpc/docs/vpc)https://cloud.google.com/vpc/docs/vpc
