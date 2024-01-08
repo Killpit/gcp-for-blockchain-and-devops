@@ -1,4 +1,4 @@
-# gcp-zero-to-hero
+# gcp-for-blockchain-and-devops
 
 A detailed course of GCP services for DevOps.
 
@@ -21,6 +21,8 @@ You will explore Google Compute Engine, which provides virtual servers and compu
 This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here, you'll learn what is VPC, how to configure a VPC, subnet, route table, enabling to design and maintain VPC infrastructure.
 
 ### Cloud DNS
+
+**Projects**: Configure and manage a domain name using Google Cloud DNS.
 
 ### Cloud Storage
 
