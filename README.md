@@ -26,6 +26,8 @@ This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here
 
 ### Cloud Storage
 
+You will explore Cloud Storage, 
+
 ### gcloud CLI
 
 ### Cloud Deployment Manager (CDM)
