@@ -26,7 +26,7 @@ This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here
 
 ### Cloud Storage
 
-You will explore Cloud Storage, 
+You will explore Cloud Storage, Google Cloud's primary storage solution. Here, you'll learn about Cloud Storage, creating buckets, uploading objects to buckets and downloading objects from buckets. 
 
 ### gcloud CLI
 
