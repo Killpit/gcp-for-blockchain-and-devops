@@ -30,6 +30,12 @@ You will explore Cloud Storage, Google Cloud's primary storage solution. Here, y
 
 ### gcloud CLI
 
+You will explore gcloud CLI, Google Cloud CLI for computers. Here, you'll learn about the gcloud CLI, basic commands and how to install the CLI on your computer. 
+
+How to install and use gcloud CLI?
+
+gcloud CLI installation docs: https://cloud.google.com/sdk/docs/install
+
 ### Cloud Deployment Manager (CDM)
 
 ### Cloud Source Repositories
