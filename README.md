@@ -18,11 +18,13 @@ You will explore Google Compute Engine, which provides virtual servers and compu
 
 ### Virtual Private Cloud (VPC)
 
-This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here, you'll learn what is VPC, how to configure a VPC, subnet, route table, enabling to design and maintain VPC infrastructure. In addition to learning VPC infrastructure, you'll also learn Google Cloud Networking (VPC).
+This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here, you'll learn what is VPC, how to configure a VPC, subnet, route table, enabling to design and maintain VPC infrastructure.
 
 ### Cloud DNS
 
-**Projects**: Configure and manage a domain name using Google Cloud DNS.
+This section includes an in-depth explanation of Cloud DNS, Google's Domain Name System.
+
+**Projects**: Setting up a domain using Cloud DNS.
 
 ### Cloud Storage
 
