@@ -18,7 +18,7 @@ You will explore Google Compute Engine, which provides virtual servers and compu
 
 ### Virtual Private Cloud (VPC)
 
-This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here, you'll learn what is VPC, how to configure a VPC, subnet, route table, enabling to design and maintain VPC infrastructure.
+This section includes Virtual Private Cloud (VPC) in Google Cloud Platform. Here, you'll learn what is VPC, how to configure a VPC, subnet, route table, enabling to design and maintain VPC infrastructure. In addition to learning VPC infrastructure, you'll also learn Google Cloud Networking (VPC).
 
 ### Cloud DNS
 
