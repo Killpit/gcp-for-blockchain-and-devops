@@ -57,3 +57,8 @@ gcloud CLI installation docs: https://cloud.google.com/sdk/docs/install
 ### Cloud Monitoring
 
 ### Cloud Run
+
+## References
+
+- Google Cloud Docs
+- <https://ns1.com/resources/whats-the-difference-authoritative-and-recursive-dns-explained#:~:text=Authoritative%20DNS%20is%20the%20system,a%20resource%20on%20the%20Internet>.
