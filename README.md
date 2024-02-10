@@ -44,6 +44,8 @@ gcloud CLI installation docs: https://cloud.google.com/sdk/docs/install
 
 ### Cloud Functions
 
+Here, you will learn about Google Cloud Functions, whom they provide a serverless approach for applications.
+
 ### Cloud CDN
 
 ### Artifact Registry
