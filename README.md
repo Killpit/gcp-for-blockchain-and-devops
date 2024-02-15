@@ -52,6 +52,8 @@ Here, you will learn about Google Cloud Functions, whom they provide a serverles
 
 ### Kubernetes Engine (GKE)
 
+Here, you will learn about world's managed Kubernetes solution, Google Kubernetes Engine. You will learn about installing gkectl, GKE's managed Kubernetes solution and we will do two real-time demos to further solidify our understanding of Google Kubernetes Engine.
+
 ### Load Balancing
 
 ### Cloud Monitoring
