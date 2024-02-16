@@ -17,3 +17,7 @@ Similar to Kubernetes architecture, a GKE cluster consists of a control plane an
 #### How nodes are created in GKE?
 
 GKE creates nodes through Google Compute Engine virtual machines (VMs) and they manage self-reported status of nodes. Nodes run necessary services and the node agent (kubelet) for communicating with the control plane and starts and runs containers that are scheduled on the node. GKE runs DaemonSets as per-node agents for functionality.
+
+#### How to create GKE clusters through Command Line Interface (CLI)?
+
+You can either use `gcloud` or `gkectl`. However, `gkectl` is recommended for on-premise infrastructure while `gcloud` would be sufficient for creating clusters. To create a cluster, you need to install `gcloud`, configure your Google Cloud account, configure the project and then you should use `gcloud` container clusters create your-cluster. If you want to install `gkectl`, you can follow the [documentation](https://cloud.google.com/anthos/clusters/docs/on-prem/latest/downloads).
