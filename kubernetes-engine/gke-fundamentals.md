@@ -32,7 +32,6 @@ You can either use `gcloud` or `gkectl`. However, `gkectl` is recommended for on
 
 `gcloud container clusters create demo-cluster --region europe-west1`
 
-
 **By specifying a location**
 
 `gcloud container clusters create demo-cluster --location europe-west1-d`
