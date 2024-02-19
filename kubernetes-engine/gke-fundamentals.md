@@ -21,3 +21,20 @@ GKE creates nodes through Google Compute Engine virtual machines (VMs) and they 
 #### How to create GKE clusters through Command Line Interface (CLI)?
 
 You can either use `gcloud` or `gkectl`. However, `gkectl` is recommended for on-premise infrastructure while `gcloud` would be sufficient for creating clusters. To create a cluster, you need to install `gcloud`, configure your Google Cloud account, configure the project and then you should use `gcloud` container clusters create your-cluster. If you want to install `gkectl`, you can follow the [documentation](https://cloud.google.com/anthos/clusters/docs/on-prem/latest/downloads).
+
+##### How to create GKE cluster through CLI?
+
+**By specifying a zone**
+
+`gcloud container clusters create demo-cluster --zone us-central1-a`
+
+**By specifying a region**
+
+`gcloud container clusters create demo-cluster --region europe-west1`
+
+
+**By specifying a location**
+
+`gcloud container clusters create demo-cluster --location europe-west1-d`
+
+- Never forget to use command to `delete` your GKE clusters, just write `delete` instead of `create` for the command above.
