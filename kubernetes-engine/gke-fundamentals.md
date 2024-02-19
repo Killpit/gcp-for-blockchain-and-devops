@@ -22,8 +22,6 @@ GKE creates nodes through Google Compute Engine virtual machines (VMs) and they 
 
 You can either use `gcloud` or `gkectl`. However, `gkectl` is recommended for on-premise infrastructure while `gcloud` would be sufficient for creating clusters. To create a cluster, you need to install `gcloud`, configure your Google Cloud account, configure the project and then you should use `gcloud` container clusters create your-cluster. If you want to install `gkectl`, you can follow the [documentation](https://cloud.google.com/anthos/clusters/docs/on-prem/latest/downloads).
 
-##### How to create GKE cluster through CLI?
-
 **By specifying a zone**
 
 `gcloud container clusters create demo-cluster --zone us-central1-a`
@@ -37,3 +35,20 @@ You can either use `gcloud` or `gkectl`. However, `gkectl` is recommended for on
 `gcloud container clusters create demo-cluster --location europe-west1-d`
 
 - Never forget to use command to `delete` your GKE clusters, just write `delete` instead of `create` for the command above.
+
+#### How to create GKE cluster through Google Cloud Console
+
+1 - Go to your project and enable Kubernetes Engine API
+2 - Click create to create your Autopilot Cluster from the clusters section
+3 - Choose a name for your cluster and click Create, wait until your cluster is created
+4 - Go to GKE workloads page and click Create Deployment
+5 - Choose a certain image and choose a name for deployment page
+6 - Choose the cluster you created and leave Port 1 to 80 and choose Target Port 1 as 8080 and click deploy
+7 - Click the name of the app from workloads and click the IP address of endpoints
+
+#### How to delete GKE cluster through Google Cloud Console
+
+After creating the GKE cluster, it's generally recommended to delete it as it can be expensive to maintain the cluster. To delete your cluster,
+
+1 - Go to GKE Clusters
+2 - Select the cluster and click delete and enter the name of your cluster to confirm the deletion of the cluster
