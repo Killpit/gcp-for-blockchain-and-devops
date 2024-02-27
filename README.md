@@ -56,6 +56,8 @@ Here, you will learn about world's managed Kubernetes solution, Google Kubernete
 
 ### Load Balancing
 
+Here, you will learn how to use Load Balancing with Google Cloud, which is an integral component of production servers deployed to Google Cloud.
+
 ### Cloud Monitoring
 
 ### Cloud Run
