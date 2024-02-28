@@ -21,3 +21,19 @@ Standard repositories are used to upload and download artifacts directly.
 #### What are virtual repositories?
 
 Virtual repositories are used as a single access point to install or deploy artifacts in the same format. Upstream repositories can either be standard or remote. Unlike other repositories, they have better protection against dependency confusion attack.
+
+### Creating a repository in Artifact Registry
+
+1 - Choose the name and format of your repository.
+2 - Choose the mode and region of your repository.
+3 - Click "Create".
+
+### How to push Docker images in Artifact Registry?
+
+```docker push region-name-docker.pkg.dev/PROJECT/quickstart-docker-repo/repo-image:tag1```
+
+### How tp pull Docker images in Artifact Registry?
+
+```docker pull region-name-docker.pkg.dev/PROJECT/quickstart-docker-repo/repo-image:tag1```
+
+Clean up your resources in order to prevent unnecessary charges to your artifact registry.
