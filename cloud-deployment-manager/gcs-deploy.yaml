@@ -1,0 +1,11 @@
+resources:
+- name: [your bucket name]
+  type: storage.v1.bucket
+  properties:
+    location: US
+    project: [your project]
+    acl:
+      - role: roles/storage.admin
+        members:
+          - user:user@gmail.com
+      - role: roles/storage.objectViewer

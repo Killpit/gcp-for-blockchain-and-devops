@@ -38,6 +38,12 @@ gcloud CLI installation docs: https://cloud.google.com/sdk/docs/install
 
 ### Cloud Deployment Manager (CDM)
 
+This section involves how to deploy Google Cloud resources using Cloud Deployment Manager (CDM).
+
+**Background Information**: Google CDM is used as an infrastructure deployment service for Google Cloud resources. Here, you can use templates to create your own resources and deploy them using `gcloud`.
+
+You can learn more about CDM by using the Google Cloud documentation.
+
 ### Cloud Source Repositories
 
 ### Cloud Build
