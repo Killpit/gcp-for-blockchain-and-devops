@@ -6,4 +6,4 @@
 
 ### Deploying a GCS Bucket
 
-`gcloud deployment-manager deployments create killpit-bucket --config gcs-deploy.yaml`
+`gcloud deployment-manager deployments create [your-bucket] --config gcs-deploy.yaml`
