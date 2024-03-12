@@ -70,6 +70,8 @@ Here, you will learn how to use Load Balancing with Google Cloud, which is an in
 
 ### Cloud Run
 
+Cloud Run is another one of Google Cloud's serverless services that allow containers to work. 
+
 ## References
 
 - Google Cloud Docs
