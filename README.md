@@ -46,13 +46,13 @@ You can learn more about CDM by using the Google Cloud documentation.
 
 ### Cloud Source Repositories
 
+This section focuses on Cloud Source Repositories, a managed source control service provided by Google Cloud. This section teaches you how to set up a Git repository in Cloud Source Repositories, collaborate with team members and managing versions.
+
 ### Cloud Build
 
 ### Cloud Functions
 
 Here, you will learn about Google Cloud Functions, whom they provide a serverless approach for applications.
-
-### Cloud CDN
 
 ### Artifact Registry
 
