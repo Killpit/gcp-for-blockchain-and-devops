@@ -68,6 +68,8 @@ Here, you will learn how to use Load Balancing with Google Cloud, which is an in
 
 ### Cloud Monitoring
 
+This section focuses on monitoring GCP resources by creating alarms, setting up notifications and collect metrics in your platform.
+
 ### Cloud Run
 
 Cloud Run is another one of Google Cloud's serverless services that allow containers to work. 
